@@ -1,0 +1,5 @@
+beautifulsoup4==4.10.0
+# imported as yaml
+psycopg2==2.9.1
+pyyaml==5.4.1
+selenium==3.141.0
